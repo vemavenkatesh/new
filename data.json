@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "photo":"profile.jpg",
+    "name":"venkatesh",
+    "email":"vemavenkatesh1994@gamil.com",
+    "mobile":"9573206525",
+    "address":"alathur"
+  },
+  "career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET,puttur",
+    "data":["2015-18","94.9"]
+  },
+  {
+      "course":"B.Sc(Computers)",
+      "college":"sri vidhya degree college,puttur",
+      "data":["2011-14","74.9"]
+    },
+    {
+      "course":"intermediate(M.P.C)",
+      "college":"sri sai jyothi junior college,puttur",
+      "data":["2009-2011","60.9"]
+    },
+    {
+      "course":"S.S.C",
+      "college":"Z.P High School,katherapalli",
+      "data":["2009","9.9"]
+    },
+]
+}
